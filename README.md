@@ -1,5 +1,11 @@
 # Wrong-teaching-indefinite-integral-EN_230725
-The repository contains an article about the incorrect teaching of "indefinite_integral" in leading textbooks of many countries. The repository is published to record copyrights and for joint public work with readers to record, recognize and correct this most unpleasant error in the educational system of many countries.
+The repository contains an article about the incorrect teaching of "indefinite_integral" in leading textbooks of many countries. The repository is published to record copyrights and for joint public work with readers to record, recognize and correct this most unpleasant error in the educational system of many countries. 
+   This repository contains only one file for you. It is simply saved in different formats for different users and for different purposes. And in different languages that need to be viewed in separate folders with the language name. Well, there are also versions by dates - the later the date, the better the file (we added something meaningful there)
+ 
+# Falsche Lehre - unbestimmtes Integral-GERM_050825 
+Das Repository enthält einen Artikel über die fehlerhafte Lehre des „unbestimmten Integrals“ in führenden Lehrbüchern vieler Länder. Das Repository dient der Dokumentation von Urheberrechten und der gemeinsamen öffentlichen Arbeit mit Lesern, um diesen äußerst unangenehmen Fehler im Bildungssystem vieler Länder zu erfassen, zu erkennen und zu korrigieren.
+
+Dieses Repository enthält nur eine Datei für Sie. Sie wird lediglich in verschiedenen Formaten für verschiedene Benutzer und Zwecke gespeichert. Und in verschiedenen Sprachen, die in separaten Ordnern mit dem jeweiligen Sprachnamen angezeigt werden müssen. Es gibt auch Versionen nach Datum – je später das Datum, desto besser die Datei (wir haben dort etwas Sinnvolles hinzugefügt).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
